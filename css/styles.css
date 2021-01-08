@@ -112,7 +112,7 @@ li:hover{
     width: 100%;
     height: 100vh;
     border: 4px solid #e22b63;    
-    background:#19191C  url(../img/logo.gif) center no-repeat;
+    background:#1A191D  url(../img/preload.jpg) center no-repeat;
     z-index: 9999;
     opacity: 99%;
 }

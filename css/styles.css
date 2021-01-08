@@ -314,27 +314,27 @@ clip-path: polygon(0% 50%, 0% 0%,100% 50%, 100% 60%);
 .card-pupUp-2.scrollin {
     
     animation: mymove 0.8s;
-    animation-delay: 2s;
+    animation-delay: 1s;
 }
 .card-pupUp-3.scrollin {
     
     animation: mymove 0.8s;
-    animation-delay: 4s;
+    animation-delay: 2s;
 }
 .card-pupUp-4.scrollin {
     
     animation: mymove 0.8s;
-    animation-delay: 6s;
+    animation-delay: 3s;
 }
 .card-pupUp-5.scrollin {
     
     animation: mymove 0.8s;
-    animation-delay: 8s;
+    animation-delay: 4s;
 }
 .card-pupUp-6.scrollin {
     
     animation: mymove 0.8s;
-    animation-delay: 10s;
+    animation-delay: 5s;
 }
 
 @keyframes mymove {
